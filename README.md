@@ -28,17 +28,9 @@ The app includes a **Contact Form** with JavaScript validation and a **Dynamic T
 
 ## 📂 How to Run
 1. Clone or download this repository.  
-2. Open the `Task2.html` file in your web browser.  
+2. Open the `task2.html` file in your web browser.  
 3. Test the Contact Form and To-Do List features.  
 
----
-
-## 📜 Internship Info
-This project fulfills **Task 2** requirements:  
-- Create a contact form using HTML & CSS  
-- Implement JavaScript form validation  
-- Build a responsive layout using Flexbox and CSS Grid  
-- Develop a dynamic To-Do List with DOM manipulation  
 
 ---
 
